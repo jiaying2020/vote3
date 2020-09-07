@@ -1,0 +1,15 @@
+current directory: /Users/atroposlee/Desktop/project3/vote-me/vendor/bundle/gems/bootsnap-1.4.8/ext/bootsnap
+/Users/atroposlee/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/atroposlee/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200906-3131-1c1x8ed.rb extconf.rb
+creating Makefile
+
+current directory: /Users/atroposlee/Desktop/project3/vote-me/vendor/bundle/gems/bootsnap-1.4.8/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/atroposlee/Desktop/project3/vote-me/vendor/bundle/gems/bootsnap-1.4.8/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/atroposlee/Desktop/project3/vote-me/vendor/bundle/gems/bootsnap-1.4.8/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20200906-3131-fkmzj0/bootsnap
